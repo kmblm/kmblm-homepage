@@ -14,12 +14,13 @@ body {
   
 }
 .container {
-    width: 400px;
+    width: 100%;
     height: 500px;
 }
 
 /* Resize images */
 .container img {
-    width: 100%;
+    width: 70%;
     height: auto;
+  margin:0 auto;
 }
