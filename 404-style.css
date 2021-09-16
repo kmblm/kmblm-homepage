@@ -1,15 +1,26 @@
 h1 {
-  font-family: 'Roboto', sans-serif;
-  color: #8A2BE2;
+  font-family: 'Monoton', cursive;
+  color: #ADFF2F;
   font-size: 120px;
   text-align: center;
 }
 body {
-  font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 20px;
-  color: #8A2BE2;
+  color: #ADFF2F;
   text-align: center;
-  background-color:black;
+  background-color:#191970;
+  font-family: 'Krona One', sans-serif;
   
+}
+.container {
+    width: 100%;
+    height: 500px;
+}
+
+/* Resize images */
+.container img {
+    width: 70%;
+    height: auto;
+  margin:0 auto;
 }
