@@ -1,3 +1,15 @@
 h1 {
-  color: red;
+  font-family: 'Roboto', sans-serif;
+  color: #8A2BE2;
+  font-size: 120px;
+  text-align: center;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  color: #8A2BE2;
+  text-align: center;
+  background-color:black;
+  
 }
