@@ -1,5 +1,6 @@
-h1 {
-  font-family: 'Monoton', cursive;
+
+  h1 {
+  font-family: "Monoton", cursive;
   color: #ADFF2F;
   font-size: 120px;
   text-align: center;
@@ -9,18 +10,16 @@ body {
   font-size: 20px;
   color: #ADFF2F;
   text-align: center;
-  background-color:#191970;
-  font-family: 'Krona One', sans-serif;
-  
+  background-color: #191970;
+  font-family: "Krona One", sans-serif;
 }
 .container {
-    width: 100%;
-    height: 500px;
+  width: 100%;
+  height: 500px;
 }
 
 /* Resize images */
 .container img {
-    width: 70%;
-    height: auto;
-  margin:0 auto;
-}
+  width: 70%;
+  height: auto;
+  margin: 0 auto;
